@@ -21,13 +21,7 @@ O modelo proposto realiza a predição dos parâmetros de reação (*ratio* e *s
 - Python 3.x  
 - TensorFlow / Keras  
 - NumPy e Matplotlib  
-- Scikit-learn  
-
-### 📎 Execução no Google Colab
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NRBF8RkJz7tiKA7_fBeluYGZBQ4cR8Za?usp=sharing)
-
----
+- Scikit-learn
 
 ### 📚 Referências principais
 
