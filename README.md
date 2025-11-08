@@ -11,8 +11,8 @@ O modelo proposto realiza a predição dos parâmetros de reação (*ratio* e *s
 ### 🧩 Estrutura do repositório
 
 - [dataset_generator.ipynb](https://colab.research.google.com/drive/1ELJc6pnwt7w5MDftZ37YnKOuTTsvD4SW?usp=sharing) → geração e preparação do conjunto de dados sintético  
-- [criação_do_modelo.ipynb](https://colab.research.google.com/drive/1NRBF8RkJz7tiKA7_fBeluYGZBQ4cR8Za?usp=sharing) → definição da arquitetura e treinamento da CNN  
-- [experimentação.ipynb](https://colab.research.google.com/drive/1NLbn7FcLfvlwEpQlrCqAyqaMTkd0wYEG?usp=sharing) → análise dos resultados, curvas de aprendizado e métricas  
+- [model.ipynb](https://colab.research.google.com/drive/1NRBF8RkJz7tiKA7_fBeluYGZBQ4cR8Za?usp=sharing) → definição da arquitetura e treinamento da CNN  
+- [tests.ipynb](https://colab.research.google.com/drive/1NLbn7FcLfvlwEpQlrCqAyqaMTkd0wYEG?usp=sharing) → análise dos resultados, curvas de aprendizado e métricas  
 
 ---
 
