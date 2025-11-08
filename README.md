@@ -4,7 +4,7 @@ Este repositório contém os notebooks desenvolvidos no **Google Colab** durante
 
 O projeto investiga o uso de **redes neurais convolucionais (CNNs)** para identificar e classificar padrões visuais gerados a partir do **modelo de reação–difusão de Gray–Scott**, utilizando aprendizado supervisionado.
 
-O modelo proposto realiza a predição dos parâmetros de reação (*ratio* e *scale*) com base em imagens sintéticas de 32×32 pixels, avaliando métricas de desempenho como **acurácia**, **precisão**, **revocação** e **F1-score**.
+O modelo proposto realiza a predição dos parâmetros de reação (*ratio* e *scale*) com base em imagens sintéticas de 32×32 pixels, avaliando métricas de desempenho.
 
 ---
 
@@ -22,13 +22,3 @@ O modelo proposto realiza a predição dos parâmetros de reação (*ratio* e *s
 - TensorFlow / Keras  
 - NumPy e Matplotlib  
 - Scikit-learn
-
-### 📚 Referências principais
-
-- GOODFELLOW, Ian; BENGIO, Yoshua; COURVILLE, Aaron. *Deep Learning.* MIT Press, 2016.  
-- KIRANYAZ, Serkan et al. *A Review of 1D Convolutional Neural Networks toward Unknown Signal Classification.* arXiv preprint arXiv:1905.03554, 2019.  
-
----
-
-📄 **Autor:** Leonardo Vinicius Ribeiro  
-📘 **Instituição:** Oderco / TCC - 2025  
